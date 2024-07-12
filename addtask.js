@@ -1,4 +1,4 @@
-const REGISTER = document.getElementById("register");
+const REGISTER = document.getElementById("add");
 
 REGISTER.addEventListener('click', (e) => {
     e.preventDefault();
